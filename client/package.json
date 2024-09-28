@@ -1,0 +1,52 @@
+{
+  "name": "travel-booking",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/next-js": "^2.2.0",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@maptiler/sdk": "^2.0.1",
+    "@tippyjs/react": "^4.2.6",
+    "@types/react-datepicker": "^6.2.0",
+    "axios": "^1.6.5",
+    "chakra-react-select": "^4.7.6",
+    "dayjs": "^1.11.10",
+    "eslint-plugin-react-hooks": "^5.1.0-canary-e3ebcd54b-20240405",
+    "framer-motion": "^10.18.0",
+    "lodash": "^4.17.21",
+    "mobx": "^6.12.0",
+    "mobx-react": "^9.1.0",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-calendar": "^4.8.0",
+    "react-datepicker": "^6.9.0",
+    "react-dom": "^18",
+    "react-hook-form": "^7.51.3",
+    "react-icons": "^5.0.1",
+    "react-loading-skeleton": "^3.4.0",
+    "react-number-format": "^5.3.4",
+    "react-table": "^7.8.0",
+    "react-slick": "^0.30.2",
+    "react-toastify": "^10.0.5",
+    "sass": "^1.72.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-slick": "^0.23.13",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "typescript": "^5"
+  }
+}
